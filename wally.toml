@@ -1,7 +1,7 @@
 [package]
 name = "tkdriverx/abbreviate"
-version = "0.1.0"
-registry = "https://github.com/UpliftGames/wally-index"
+version = "0.1.1"
+registry = "https://github.com/Tkdriverx/abbreviate"
 realm = "shared"
 
 [dependencies]
